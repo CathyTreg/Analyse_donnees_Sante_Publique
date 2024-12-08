@@ -1,5 +1,5 @@
 # Analyse_donnees_Sante_Publique
-Préparer des données pour la création d’une application de santé publique
+Préparer des données pour la création d’une application de santé publique - Projet réalisé en mars 2024 dans le cadre du parcours de formation DataScientist d'OpenClassrooms.
 
 Contexte : 
 -	L'agence Santé publique France gère une base de données open source qui est mise à la disposition de particuliers et d’organisations afin de leur permettre de connaître la qualité nutritionnelle de produits. 
